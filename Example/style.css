@@ -1,0 +1,25 @@
+html{background:#ffffff;font-size:.8em}
+html *{border:0;color:#333;font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;margin:0;padding:0}
+a{color:#333}
+a:hover{background-color:#fee600;text-decoration:none}
+h1{background:url(Logo.png) no-repeat;height:110px;margin-left:28px;text-indent:-4000em;width:376px;position:relative;left:-7px}
+h2{border-bottom:1px solid #ccc;font-size:1.2em;margin-bottom:10px}
+#theform{background:#F2FFE0;border-top:1px solid #DEF0C3;border-bottom:1px solid #DEF0C3;padding:1em;margin-top:10px}
+input,textarea,select{background:#fff;border:1px outset #ebebeb;color:#333;padding:.2em}
+textarea{width: 565px}
+#page{margin:0 auto;position:relative;width:900px}
+.text{margin-bottom:10px;}
+.result{background:#FFEDEF;border-bottom:1px solid #FFC2CA;border-top:1px solid #FFC2CA;color:#CC0000;margin-top:1px;padding:10px 9px 9px;}
+#header{margin:0 0 70px}
+#header,#content,#footer{padding:0 28px}
+#content{float:left;padding-bottom:3em;width:600px}
+#sidebar{float:right;margin:0 20px 0 0;width:200px}
+#sidebar ul,.pagenav *{list-style:none}
+#sidebar .pagenav{left:28px;list-style:none;position:absolute;top:115px}
+#sidebar .pagenav h2{display:none}
+#sidebar .pagenav li{display:inline}
+#sidebar .page_item a{border:1px outset #ebebeb;padding:.2em 1em;text-decoration:none}
+#sidebar .page_item a:hover{background-color:#fee600;padding:.2em 1em}
+#sidebar .current_page_item a{background-color:#73bf00}
+.clean, .clean tr *{color:#5e9a00;margin:5px 0}
+#footer{clear:both;font-size:.8em;padding:2em 0;text-align:center}

@@ -1,0 +1,17 @@
+Welcome to the code base of the .NETIDS (.NET Intrusion detection System). This tool is capable of detecting on attacks on web applications and gives the developer the possibility to react. The project files include filter rules and function stubs to react on possible intrusions which may vary from logging to warning or redirecting the user.
+
+The goal of this project is to provide am additional layer of protection to >any< .NET application this project is used with. This also includes the detection of XSS, directoy traversal, SQL injections, protection against overwriting JS objects and methods, advanced logging functions, categorization and tagging of the single filter rules and interfaces for reacting on possible intrusions. 
+
+Earlier versions of .NetIDS is available for download 
+
+Binary: http://dotnetids.googlecode.com/files/dotnetids-bin-0_1_3_0.zip
+
+.NET IDS is a port of phpids (http://www.phpids.org) to the .NET Framework. The library is fully CLS compliant and implements exactly the same filtering sets as the PHP version. 
+
+We are moving ahead with our new version from gitHub. This will be our official repo going forward.
+
+
+We are looking for C# developers who can take this forward. Lets collabrate and create a good IDS for .Net
+
+Thanks,
+Albert Arul Prakash
